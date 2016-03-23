@@ -16,4 +16,4 @@ This repository contains a Dockerfile of [Lychee](https://github.com/electerious
 
 ## Access rss plugin
 
-	Navigate to [http://localhost:80/plugins/rss/](http://localhost:80/plugins/rss/)
+Navigate to [http://localhost:80/plugins/rss](http://localhost:80/plugins/rss)
